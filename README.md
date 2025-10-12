@@ -19,19 +19,11 @@ I love crafting **clean interfaces**, **meaningful interactions**, and exploring
 
 | Category | Tools & Frameworks |
 |-----------|-------------------|
-| **Languages** | HTML5, CSS3 / SASS, JavaScript (ES6+), PHP |
+| **Languages** | HTML5, CSS3, JavaScript (ES6+), PHP |
 | **Frameworks** | WordPress, React, GSAP, Node.js |
-| **Design** | Figma, Photoshop, Illustrator |
+| **Design** | Photoshop, Illustrator |
 | **Workflow** | Git, VS Code, n8n, REST APIs |
 | **Other** | SEO, Accessibility, Web Animation, AI Integration |
-
----
-
-### 🪄 Recent Projects
-- 🖥️ **Blinklicht Studio** — A creative web agency in Vienna focused on modern design & animation  
-- 🛒 **E-Commerce Templates** — Custom WooCommerce builds with optimized UX  
-- ⚡ **Interactive Landing Pages** — Scroll-driven GSAP experiences  
-- 🤖 **AI Chatbot Systems** — Business automation using OpenAI API + n8n  
 
 ---
 
@@ -46,10 +38,4 @@ I love crafting **clean interfaces**, **meaningful interactions**, and exploring
 📫 **Email:** [contakt@philipjancsy.com](mailto:contakt@philipjancsy.com)  
 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 🌐 **Portfolio:** [philipjancsy.com](https://philipjancsy.com)
-
----
-
-> “Design isn’t how it looks — it’s how it **feels** when you interact with it.”
-
-Thanks for stopping by — feel free to explore my projects or say hi! 👋  
 
