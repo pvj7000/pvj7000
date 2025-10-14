@@ -15,18 +15,6 @@ I love crafting **clean interfaces**, **meaningful interactions**, and exploring
 
 ---
 
-### 🧰 Tech Stack
-
-| Category | Tools & Frameworks |
-|-----------|-------------------|
-| **Languages** | HTML5, CSS3, JavaScript (ES6+), PHP |
-| **Frameworks** | WordPress, React, GSAP, Node.js |
-| **Design** | Photoshop, Illustrator |
-| **Workflow** | Git, VS Code, n8n, REST APIs |
-| **Other** | SEO, Accessibility, Web Animation, AI Integration |
-
----
-
 ### 🌱 I’m Currently Learning
 - React + Next.js for richer UI architecture  
 - TypeScript fundamentals  
