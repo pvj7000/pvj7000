@@ -8,8 +8,7 @@ I love crafting **clean interfaces**, **meaningful interactions**, and exploring
 
 ### 🧠 What I Do
 - 🎨 **Front-End Development** — HTML, CSS, JavaScript, GSAP, React  
-- ⚙️ **WordPress Development** — Custom themes, WooCommerce, automation  
-- 💡 **Creative Web Design** — UX, branding, layout composition  
+- ⚙️ **WordPress Development** — Custom themes & Plugins, WooCommerce, automation  
 - 🤖 **AI & Automation** — OpenAI API, n8n workflows, chatbots  
 - 🔧 **Performance & Accessibility** — fast, responsive, and inclusive web experiences  
 
@@ -23,7 +22,7 @@ I love crafting **clean interfaces**, **meaningful interactions**, and exploring
 ---
 
 ### 💬 Let’s Connect
-📫 **Email:** [contakt@philipjancsy.com](mailto:contakt@philipjancsy.com)  
+📫 **Email:** [contact@philipjancsy.com](mailto:contact@philipjancsy.com)  
 💼 **LinkedIn:** [linkedin.com/in/philip-vincent-jancsy](https://linkedin.com/in/philip-vincent-jancsy-8b8a5a389/)  
 🌐 **Portfolio:** [philipjancsy.com](https://philipjancsy.com)
 
