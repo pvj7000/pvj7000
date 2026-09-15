@@ -19,3 +19,4 @@ I love crafting **clean interfaces**, **meaningful interactions**, and exploring
 📫 **Email:** [contact@philipjancsy.com](mailto:contact@philipjancsy.com)  
 💼 **LinkedIn:** [linkedin.com/in/philip-vincent-jancsy](https://linkedin.com/in/philip-vincent-jancsy-8b8a5a389/)  
 🌐 **Portfolio:** [philipjancsy.com](https://philipjancsy.com)
+Ⓦ **WordPress.org:** [philipjancsy](https://profiles.wordpress.org/pvj7000/)
